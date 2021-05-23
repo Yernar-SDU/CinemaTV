@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CinemaTV</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Fantasy">Fantasy</string>
+    <string name="Action">Action</string>
+    <string name="Animation">Animation</string>
+    <string name="Comedy">Comedy</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+</resources>
