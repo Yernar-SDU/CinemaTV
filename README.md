@@ -10,8 +10,7 @@ An application where we have ability to see movies sorted by genres, search any 
 
 First of all let's see the home page.
 Here you can see the movies sorted by genres, where you can refresh page. Also, you can see new list of movies when reaching to the end of page.
-![Android-Emulator-Pixel-4-API-30 (1)](https://user-images.githubusercontent.com/63552682/128704036-ae5f2c41-a90e-4a54-a9a7-62dd43154977.gif =250x250)
-<img src="https://user-images.githubusercontent.com/63552682/128704036-ae5f2c41-a90e-4a54-a9a7-62dd43154977.gif" width="48">
+<img src="https://user-images.githubusercontent.com/63552682/128704036-ae5f2c41-a90e-4a54-a9a7-62dd43154977.gif" width="250">
 ### Dependencies
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
