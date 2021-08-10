@@ -1,4 +1,3 @@
-![Android-Emulator-Pixel-4-API-30 (4)](https://user-images.githubusercontent.com/63552682/128814229-8fc4a614-ecd7-4b5d-b780-98715fad9d62.gif)
 # CinemaTV
 
 Simple CRUD android application. Showing movie and actors.
