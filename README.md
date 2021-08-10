@@ -14,6 +14,7 @@ Here you can see the movies sorted by genres, where you can refresh page. Also, 
 <img src="https://user-images.githubusercontent.com/63552682/128704036-ae5f2c41-a90e-4a54-a9a7-62dd43154977.gif" width="250">
 
 2.Search page
+
 ![Android-Emulator-Pixel-4-API-30 (2)](https://user-images.githubusercontent.com/63552682/128807406-b3aac4d0-6579-4211-8954-b6579d66ef52.gif)
 
 3.Save to favorites
