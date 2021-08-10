@@ -28,15 +28,22 @@ Here you can see the movies sorted by genres, where you can refresh page. Also, 
 
 ### Dependencies
 MultiDex: 'androidx.multidex:multidex:2.0.1'
+
 Constraint Layout: androidx.constraintlayout:constraintlayout:2.0.4
+
 Loader view: io.github.elye:loaderviewlibrary:3.0.0
+
 OkHttp: com.squareup.okhttp3:logging-interceptor:4.9.0
+
 Retrofit: com.squareup.retrofit2:retrofit:2.9.0 
          com.squareup.retrofit2:converter-gson:2.9.0
+         
 Glide: com.github.bumptech.glide:glide:4.12.0
       com.github.bumptech.glide:compiler:4.12.0
+      
 Dependency injection, Dagger: com.google.dagger:hilt-android:2.34-beta
                               kapt "com.google.dagger:hilt-android-compiler:2.34-beta"
+                              
 Swipe refresh layout: androidx.swiperefreshlayout:swiperefreshlayout:1.1.0                              
 
 
