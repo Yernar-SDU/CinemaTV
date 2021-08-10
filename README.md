@@ -22,6 +22,7 @@ Here you can see the movies sorted by genres, where you can refresh page. Also, 
 ![Android-Emulator-Pixel-4-API-30 (3)](https://user-images.githubusercontent.com/63552682/128811145-c10122c1-c681-4c08-a81e-f8a9126eabd2.gif)
 
 4. Film details
+
 ![Android-Emulator-Pixel-4-API-30 (4)](https://user-images.githubusercontent.com/63552682/128814219-e08861c0-299e-4b65-9970-0c20f8b7d180.gif)
 
 
